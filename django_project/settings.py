@@ -25,7 +25,7 @@ SECRET_KEY = 'sp&*ypt316=-vkjab(h&f(%95oausy(g%m75t!3d0s6g@u8ay2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
